@@ -1,0 +1,13 @@
+ .title-explo {
+  width: 100vw;
+  display: flex;
+  align-items: right;
+  justify-content: space-between;
+  padding: 10px;
+  font-family: 'Fredoka', sans-serif;
+ }
+
+ .toolbar {
+     display : flex;
+     justify-content: center;
+ }

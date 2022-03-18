@@ -1,0 +1,18 @@
+ .mapcontainer {
+  height: 5000vh;
+  width: "200%";
+}
+.paper {
+  padding: "10px";
+  justify-content: "center";
+  align-items: center;
+  display: flex;
+  width: 100px;
+}
+.pointer {
+  cursor: "pointer";
+}
+.markerContainer {
+  position: "absolute";
+  transform: "translate(-50%, -50%)";
+} 

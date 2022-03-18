@@ -1,0 +1,28 @@
+ .container {
+   padding: 20px;
+
+ }
+
+ .loading {
+   height: 60px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .form {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   align-self: center;
+   padding: 40px;
+   user-select: contain;
+   min-width: 200px;
+   font-size: larger;
+ }
+
+ .list {
+   padding: 30px;
+   margin-top: 10px;
+   height: 100vh;
+ }
